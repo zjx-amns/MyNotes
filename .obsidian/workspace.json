@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "基础工具/Git的使用.md",
+                "file": "库/OpenGL/OpenGL创建窗口.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git的使用"
+              "title": "OpenGL创建窗口"
             }
           }
         ]
@@ -194,8 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "993ba72199cb0b1c",
+  "active": "bab60ce058b247f1",
   "lastOpenFiles": [
+    "基础工具/Git的使用.md",
+    "日记/2025-12-09.md",
     "科学与c++/c++科学记谱法导论.md",
     "科学与c++",
     "日记/2025-12-11.md",
@@ -206,8 +208,6 @@
     "库",
     "日记",
     "数据结构/并查集.md",
-    "日记/2025-12-09.md",
-    "基础工具/Git的使用.md",
     "数据结构"
   ]
 }
