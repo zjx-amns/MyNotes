@@ -20,65 +20,8 @@
               "icon": "lucide-file",
               "title": "Git的使用"
             }
-          },
-          {
-            "id": "7ce5c7856ec6724a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "日记/2025-12-11.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-12-11"
-            }
-          },
-          {
-            "id": "df525cbf478bba07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "库/OpenGL/OpenGL前置知识与介绍.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OpenGL前置知识与介绍"
-            }
-          },
-          {
-            "id": "8452575fcf4b3757",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "库/OpenGL/OpenGL创建窗口.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "OpenGL创建窗口"
-            }
-          },
-          {
-            "id": "55cf19c399b3d6d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "科学与c++/c++科学记谱法导论.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "c++科学记谱法导论"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7f15047e5c82f244",
@@ -238,7 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -252,19 +194,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8452575fcf4b3757",
+  "active": "993ba72199cb0b1c",
   "lastOpenFiles": [
-    "库/OpenGL/OpenGL前置知识与介绍.md",
-    "库/OpenGL/OpenGL创建窗口.md",
     "科学与c++/c++科学记谱法导论.md",
-    "未命名 1.md",
     "科学与c++",
     "日记/2025-12-11.md",
+    "数据结构/并查集（高级数据结构）.md",
+    "库/OpenGL/OpenGL前置知识与介绍.md",
+    "库/OpenGL/OpenGL创建窗口.md",
     "库/OpenGL",
     "库",
-    "数据结构/并查集（高级数据结构）.md",
-    "欢迎.md",
     "日记",
+    "数据结构/并查集.md",
+    "日记/2025-12-09.md",
     "基础工具/Git的使用.md",
     "数据结构"
   ]
