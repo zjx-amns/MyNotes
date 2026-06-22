@@ -8,133 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b4af86fe294448e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LearnOpenGL-变换.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LearnOpenGL-变换"
-            }
-          },
-          {
-            "id": "99a486bfa944ba22",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++工程/编译与链接.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "编译与链接"
-            }
-          },
-          {
-            "id": "c957f4224bfd3433",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++工程/GPU两大工作.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GPU两大工作"
-            }
-          },
-          {
-            "id": "61c42f8e31a21748",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "库/OpenGL/NDC与显示的基础原理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NDC与显示的基础原理"
-            }
-          },
-          {
-            "id": "e991eb0cc62da487",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "库/OpenGL/NDC与显示的基础原理.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NDC与显示的基础原理"
-            }
-          },
-          {
-            "id": "8f48c0bf83036b7f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "清单.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "清单"
-            }
-          },
-          {
-            "id": "1f88611f79864ae2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "c++求和函数.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "c++求和函数"
-            }
-          },
-          {
-            "id": "f299a124adcf744b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数学/相同数相乘较大.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "相同数相乘较大"
-            }
-          },
-          {
             "id": "ed9cc0129626a96b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenGL Buffers.md",
+                "file": "OpenGL 计算机图形学/OpenGL前置知识与介绍.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OpenGL Buffers"
+              "title": "OpenGL前置知识与介绍"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -307,18 +194,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed9cc0129626a96b",
+  "active": "e0478a33555fe702",
   "lastOpenFiles": [
-    "数学/相同数相乘较大.md",
-    "OpenGL Buffers.md",
-    "库/OpenGL/OpenGL前置知识与介绍.md",
-    "库/OpenGL/OpenGL创建窗口.md",
-    "库/OpenGL/LearnOpenGL-变换.md",
-    "库/OpenGL/NDC与显示的基础原理.md",
-    "科学与c++/状态机.md",
-    "c++求和函数.md",
-    "穷举法.md",
     "清单.md",
+    "README.md",
+    "题解/2026-03-01 解题思路.md",
+    "题解",
+    "科学与c++/c++求和函数.md",
+    "OpenGL 计算机图形学/OpenGL Buffers.md",
+    "穷举法.md",
+    "数学/相同数相乘较大.md",
+    "OpenGL 计算机图形学/OpenGL前置知识与介绍.md",
+    "OpenGL 计算机图形学/OpenGL创建窗口.md",
+    "OpenGL 计算机图形学/LearnOpenGL-变换.md",
+    "OpenGL 计算机图形学/NDC与显示的基础原理.md",
+    "科学与c++/状态机.md",
     "科学与c++/数据结构/STL Set.md",
     "截图/STL_Lower_bound_and_Upper_bound.png",
     "截图/Pasted image 20260411175156.png",
@@ -326,7 +216,6 @@
     "截图/Pasted image 20260411180042.png",
     "截图/Pasted image 20260411180831.png",
     "截图/向量与标量运算.png",
-    "README.md",
     "数学",
     "C++工程/GPU两大工作.md",
     "C++工程/编译与链接.md",
@@ -334,7 +223,6 @@
     "科学与c++/STL的lower_bound() 和 upper_bound().md",
     "科学与c++/文件操作/C++文件和流.md",
     "科学与c++/数据结构/并查集（高级数据结构）.md",
-    "2026-03-01.md",
     "未命名.canvas",
     "科学与c++/C++标准库numeric.md",
     "日记/2025-12-11.md",
@@ -346,11 +234,9 @@
     "未命名 1.base",
     "未命名.base",
     "科学与c++/DP动态规划.md",
-    "基础工具/Git的使用.md",
     "科学与c++",
-    "库/OpenGL",
-    "库",
-    "日记",
-    "科学与c++/数据结构"
+    "OpenGL 计算机图形学",
+    "C++ 库",
+    "日记"
   ]
 }
