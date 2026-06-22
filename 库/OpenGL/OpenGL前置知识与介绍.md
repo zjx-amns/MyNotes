@@ -2,11 +2,7 @@
 除此之外，我们也将用到一些==数学知识==（线性代数、几何、三角学）
 
 # OpenGL
-|原文|[OpenGL](http://learnopengl.com/#!Getting-started/OpenGL)|
-|---|---|
-|作者|JoeyDeVries|
-|翻译|gjy_1992, Krasjet|
-|校对|暂未校对|
+
 OpenGL规范严格规定了每个函数该如何执行，以及它们的输出值。至于内部具体每个函数是如何实现(Implement)的，将由OpenGL库的开发者自行决定
 因为OpenGL规范并没有规定实现的细节，具体的OpenGL库允许使用不同的实现，只要其功能和结果与规范相匹配（亦即，作为用户不会感受到功能上的差异）。
 

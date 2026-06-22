@@ -1,0 +1,1 @@
+int sum = **accumulate**(num.begin(), num.end(), 0);
